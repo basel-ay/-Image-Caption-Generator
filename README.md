@@ -51,5 +51,4 @@ I hope this gives you an idea of how we are approaching this problem statement.
 
 **Let’s dive into the implementation and creation of an image caption generator!**
 
-
 **Datasets and Notebook on Kaggle** : https://www.kaggle.com/basel99/image-caption-generator
