@@ -1,21 +1,3 @@
-# **Table of Contents**
-1.Introduction
-
-2.Approach to the problem statement
-
-3.Data loading and Preprocessing
-
-4.Glove Embedding
-
-5.Model building
-
-6.Model training
-
-7.Greedy and Beam Search
-
-8.Evaluation
-
-
 # **Introduction**
 
 Image caption Generator is a popular research area of Artificial Intelligence that deals with image understanding and a language description for that image. Generating well-formed sentences requires both syntactic and semantic understanding of the language. Being able to describe the content of an image using accurately formed sentences is a very challenging task, but it could also have a great impact, by helping visually impaired people better understand the content of images. 
